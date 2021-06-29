@@ -1,5 +1,9 @@
 # gitkraken_workshop
+<<<<<<< HEAD
 to see if gitkraken handels changes.
+=======
+This is just to see how github and gitkraken manage conflicts.
+>>>>>>> main
 ## Overview
 Our code will demonstrate the different code snippets that have been used for programming
 classes. We will have this written in both R and Python. 
